@@ -1,0 +1,6 @@
+{
+  "name": "Saathi AI",
+  "description": "AI Companion Chat app with personalized companions, persistent memory, and proactive messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
